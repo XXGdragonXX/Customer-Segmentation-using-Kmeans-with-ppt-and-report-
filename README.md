@@ -1,1 +1,1 @@
-# GD-s-Python-
+# Customer Segmentation using Kmeans
